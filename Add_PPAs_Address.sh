@@ -642,9 +642,6 @@ sudo add-apt-repository --yes ppa:ki7mt/wsjtx-next
 sudo add-apt-repository --yes ppa:wfg/0ad
 sudo add-apt-repository --yes ppa:wfg/0ad.dev
 sudo add-apt-repository --yes ppa:mythbuntu/0.29
-
-
-selection4_selection5
 sudo add-apt-repository --yes ppa:lovell/xenial-backports
 sudo add-apt-repository --yes ppa:hlprasu/lifeograph-xenial
 sudo add-apt-repository --yes ppa:sandvine/cloud-archive-ocata
