@@ -1,8 +1,7 @@
 # Ubuntu-Universal-PPAs-Collection
 
 This repository contains collection of customized, updated, ported and backported
-packages for two last LTS releases and latest pre-LTS release.
-Packages for older releases relocated to ppa:eugenesan/archive or deleted.
+packages for last LTS releases and latest pre-LTS release.
 
 +-------------------------------------------------------------------------------------+
 
