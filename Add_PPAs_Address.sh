@@ -1,6 +1,5 @@
-
-add-apt-repository ppa:firmware-testing-team/ppa-fwts-unstablesudo
-add-apt-repository ppa:skellat/flow1
+sudo add-apt-repository --yes ppa:firmware-testing-team/ppa-fwts-unstablesudo
+sudo add-apt-repository --yes ppa:skellat/flow1
 sudo add-apt-repository --yes "deb http://dl.google.com/linux/chrome/deb/ stable main"
 sudo add-apt-repository --yes "deb http://dl.google.com/linux/chrome-remote-desktop/deb/ stable main"
 sudo add-apt-repository --yes "deb http://dl.google.com/linux/deb/ stable main non-free"
